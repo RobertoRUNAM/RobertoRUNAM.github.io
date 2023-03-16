@@ -23,7 +23,7 @@
     <section id="inicio">
       <h1>Experto SEO - Roberto Ruedas</h1>
       <p>Aumenta la visibilidad de tu negocio en línea y mejora tus resultados con mis servicios de SEO profesional.</p>
-      <img src="juan-perez.jpg" alt="Juan Pérez, experto en SEO">
+      <img src="juan-perez.jpg" alt="Roberto Ruedas, experto en SEO">
     </section>
     
     <section id="servicios">

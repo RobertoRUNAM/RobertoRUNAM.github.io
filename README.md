@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Experto en SEO con años de experiencia ayudando a empresas a mejorar su visibilidad en línea y aumentar sus conversiones">
-  <title>Experto SEO - Juan Pérez | Consultor SEO Profesional</title>
+  <title>Experto SEO - Roberto Ruedas | Consultor SEO Profesional</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
